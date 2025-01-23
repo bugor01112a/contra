@@ -2,11 +2,7 @@
 ветка вадим
 новый файл на новом пк!!!
 
-<<<<<<< HEAD
-local version
-=======
-net version
->>>>>>> b0f1f2ad9a1fbb485a015e453ee8f5b8b95703ce
+23/01
 
 
 
